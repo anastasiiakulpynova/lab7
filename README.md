@@ -1,7 +1,7 @@
 # lab7
 # Laboratory Work 7: Physical Model in MSSQL
 
-## Subject Area: University Database
+## University Database
 
 ### Verbal Model
 The database stores information about students, academic advisers, tutors, curricula, and sciences. Each student has one adviser. Each curriculum is taught by one tutor. A curriculum can cover multiple sciences, and a science can be part of multiple curricula.
